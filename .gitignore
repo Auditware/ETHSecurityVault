@@ -1,0 +1,9 @@
+# Obsidian workspace state (personal, changes on every open)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

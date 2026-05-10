@@ -1,0 +1,18 @@
+---
+name: "Marie Jessica"
+wallet: "0x13739daedf424f3264256554ce89a593f7f3ba49"
+total_usd_donated: 0.24
+projects_donated_to: 1
+---
+
+# Marie Jessica
+
+**Wallet:** `0x13739daedf424f3264256554ce89a593f7f3ba49`
+
+## QF Donations
+
+> Donated to **1 project(s)** · Total: **$0.24 USD** (ETH Security QF Round)
+
+| Project | USD Value | Currency | Network | Date |
+|---------|-----------|----------|---------|------|
+| [[Projects/human.tech]] | $0.24 | ETH | Ethereum | 2026-05-05 |
